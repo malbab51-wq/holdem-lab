@@ -1,0 +1,9 @@
+{
+  "name": "주윤발 홀덤 LAB",
+  "short_name": "홀덤 LAB",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1729",
+  "theme_color": "#12243d",
+  "lang": "ko"
+}
